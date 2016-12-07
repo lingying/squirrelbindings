@@ -11,3 +11,10 @@ UpgradeLog.htm
 *.VC.db
 *.pyc
 ~$*.*
+
+/build_squirrel/squirrel3/Backup
+/build_squirrel/squirrel3/bin
+/build_squirrel/squirrel3/lib
+/build_squirrel/squirrel3/x64
+/build_squirrel/squirrel3/squirrel/x64
+/build_squirrel/squirrel3/squirrel/Debug
